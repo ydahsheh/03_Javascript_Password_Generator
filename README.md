@@ -22,7 +22,7 @@ How to get to there:
 ### Open your Web Browser and Enter the following Web Address to Access:
 
 ```html
-file:///Users/yasmeendahsheh/Documents/GitHub/03_Javascript_Password_Generator/index.html
+https://ydahsheh.github.io/03_Javascript_Password_Generator/
 ```
 
 <a name="usage"></a>
